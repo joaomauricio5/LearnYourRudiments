@@ -1,5 +1,5 @@
 # LearnYourRudiments
-<b> Mobile web app designed for drummers who are just starting out and want to learn some rudiments. This was my first HTML/CSS + JavaScript project and it explored Human-Centered Design through the PACT Framework. It also uses NexusUI and ToneJS.</b>
+<b> Mobile web app for Android designed for drummers who are just starting out and want to learn some rudiments. This was my first HTML/CSS + JavaScript project and it explored Human-Centered Design through the PACT Framework. It also uses NexusUI and ToneJS.</b>
 
 <b> Available at: https://joaomauricio5.github.io/LearnYourRudiments/ </b>
 
