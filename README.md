@@ -12,7 +12,11 @@ An Example button is provided which plays back a drum beat that the user can cre
 
 
 
-https://user-images.githubusercontent.com/90060036/132049136-8b809ac0-10d1-4c9a-8a15-3a71bcca00a7.mov
+
+
+https://user-images.githubusercontent.com/90060036/132049723-6062bb84-15e0-41b3-9a86-26d633c645a0.mov
+
+
 
 
 
