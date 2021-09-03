@@ -10,7 +10,9 @@ This app presents 6 rudiments to choose from, and displays the pattern in the sc
 The user can adjust the speed of the audio playback and the animation by using the BPM slider. They can then practice (maybe with their two thumbs while holding the phone) in the Practice Area. The phone vibrates at the same rate of the metronome, so that the user can practice even in loud places.
 An Example button is provided which plays back a drum beat that the user can create just using the drum rudiment selected.
 
-<p align="center">
-https://user-images.githubusercontent.com/90060036/132048804-169ac607-9627-4d8e-9789-73c43c58ea90.mov
-</p>
+
+
+https://user-images.githubusercontent.com/90060036/132049136-8b809ac0-10d1-4c9a-8a15-3a71bcca00a7.mov
+
+
 
