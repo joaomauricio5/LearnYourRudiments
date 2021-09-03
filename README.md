@@ -12,15 +12,5 @@ An Example button is provided which plays back a drum beat that the user can cre
 
 
 
-
-
-
-
-https://user-images.githubusercontent.com/90060036/132050021-c43debe9-4ee0-4320-b32e-83c799e914dd.mov
-
-
-
-
-
-
+https://user-images.githubusercontent.com/90060036/132051371-ea57e249-2b76-49a7-a5f8-7ceca73410fe.mov
 
