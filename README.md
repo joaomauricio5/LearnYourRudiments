@@ -11,7 +11,6 @@ The user can adjust the speed of the audio playback and the animation by using t
 An Example button is provided which plays back a drum beat that the user can create just using the drum rudiment selected.
 
 <p align="center">
-<img width="414" alt="Screenshot 2021-09-03 at 18 20 22" src="https://user-images.githubusercontent.com/90060036/132043843-a51ac3c4-b36f-467f-a21b-a58c93588d11.png">
+https://user-images.githubusercontent.com/90060036/132048804-169ac607-9627-4d8e-9789-73c43c58ea90.mov
 </p>
-
 
